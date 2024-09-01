@@ -96,7 +96,4 @@ Previous_week_Reveneue = CALCULATE(
 - **Activation Rate**: 57.5%
 - **Delinquency Rate**: 6.06%
 
-## Screenshots
-Please see the attached screenshots for visualization:
-- **Dashboard Overview**
-- **Transaction Analysis**
+
